@@ -9,6 +9,5 @@ function changeBackground() {
 
 function deleteText(){
   const elemToDeleteText = document.querySelector("#to-delete")
-  elemToDeleteText.textContent = "Dieser Text wurde gelöscht!"
+  elemToDeleteText.textContent = "Inhalt gelöscht"
 }
-
