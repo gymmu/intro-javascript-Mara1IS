@@ -30,3 +30,9 @@ section > h3 {
   text-align: center;
   background-color: rgb(41, 41, 41);
 }
+
+#box {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+}

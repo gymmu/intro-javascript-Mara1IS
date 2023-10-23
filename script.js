@@ -51,3 +51,13 @@ function changeTextcolor() {
   body.style.color = inputElement.value
 }
 
+function changewidth()   {
+const body= document.querySelector("#box")
+const inputElement= document.querySelector("#input-width")
+
+body.style.width= inputElement.value + "px"
+alert(inputElement.value)
+
+}
+
+ 
